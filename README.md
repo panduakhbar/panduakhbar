@@ -2,7 +2,7 @@
 - 👀 I’m interested in DA and DE
 - 🌱 I’m currently learning Pyhton and mySQL
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me on my discord pandu#6226
 
 <!---
 panduakhbar/panduakhbar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
